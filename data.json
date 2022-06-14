@@ -1,0 +1,50 @@
+ 
+Today's Leads:[
+    {
+        "id": "1",
+        "leadName": "Christopher Maclead",
+        "company": "Rangoni Of Florence",
+        "email": "christopher-maclead@gmail.com",
+        "phone": "555-555-5555",
+        "leadOwner ": "surjith"
+    },
+    {
+        "id": "2",
+        "leadName": "Carissa Kidman",
+        "company": "Oh My Goodknits Inc",
+        "email": "carissa-kidman@yahoo.com",
+        "phone": "555-555-5555",
+        "leadOwner ": "surjith"
+    },
+    {
+        "id": "3",
+        "leadName": "James Merced",
+        "company": "Kwik Kopy Printing",
+        "email": "james-merced@gmail.com",
+        "phone": "555-555-5555",
+        "leadOwner ": "surjith"
+    }
+    
+]
+
+
+My Deals Closing This Month [
+    {
+        "id": "1",
+        "Deal Name": "King",
+        "Amount": "$ 60,000.00",
+        "Stage": "Identify Decision Makers",
+        "Closing Date": "Jun 16, 2022",
+        "Conactname ": "Kris Marrier"
+    },
+    {
+        "id": "2",
+        "Deal Name": "Commercial Press",
+        "Amount": "$ 80,000.00",
+        "Stage": "Closed Lost",
+        "Closing Date": "Jun 15, 2022",
+        "Conactname ": "Commercial Press"
+    },
+    
+    
+]
